@@ -1,0 +1,114 @@
+{
+  "url_to_bytes.dart": {
+    "old_identifier_name": "urlToBytes",
+    "new_identifier_name": "urlToBytes",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "1cba64423ddc238358570a6e6935bfd7f3f4f98df915d788abc490fbbc6daae3",
+    "original_checksum": "1cba64423ddc238358570a6e6935bfd7f3f4f98df915d788abc490fbbc6daae3"
+  },
+  "base64_to_f_f_uploaded_file.dart": {
+    "old_identifier_name": "base64ToFFUploadedFile",
+    "new_identifier_name": "base64ToFFUploadedFile",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "508ce3254455008b5ab099b4916e940fbbf7e776d804723d6baa7e081b09055d",
+    "original_checksum": "508ce3254455008b5ab099b4916e940fbbf7e776d804723d6baa7e081b09055d"
+  },
+  "single_base64_to_f_f_uploaded_file.dart": {
+    "old_identifier_name": "singleBase64ToFFUploadedFile",
+    "new_identifier_name": "singleBase64ToFFUploadedFile",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "fb8c1c253e9c116619cda6ea40757cd292794db84c56dbd612a93b740a5b41f1",
+    "original_checksum": "fb8c1c253e9c116619cda6ea40757cd292794db84c56dbd612a93b740a5b41f1"
+  },
+  "string_to_uploaded_file.dart": {
+    "old_identifier_name": "stringToUploadedFile",
+    "new_identifier_name": "stringToUploadedFile",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "e78c8b3fb5fad3285ba819c634d00dec5bf2541ac0dcbb422c7e5b7144d95130",
+    "original_checksum": "e78c8b3fb5fad3285ba819c634d00dec5bf2541ac0dcbb422c7e5b7144d95130"
+  },
+  "list_string_to_uploaded_file.dart": {
+    "old_identifier_name": "listStringToUploadedFile",
+    "new_identifier_name": "listStringToUploadedFile",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "2c884131048d2191bb52787fbf191479b9e503fc7dc831c1a005d8c205274bd3",
+    "original_checksum": "2c884131048d2191bb52787fbf191479b9e503fc7dc831c1a005d8c205274bd3"
+  },
+  "urls_to_storage_firebase.dart": {
+    "old_identifier_name": "urlsToStorageFirebase",
+    "new_identifier_name": "urlsToStorageFirebase",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "845f33b2f14696a12ae62122807a7bc6f30733476a064f17c7c3022f066a985f",
+    "original_checksum": "845f33b2f14696a12ae62122807a7bc6f30733476a064f17c7c3022f066a985f"
+  },
+  "verify_password.dart": {
+    "old_identifier_name": "verifyPassword",
+    "new_identifier_name": "verifyPassword",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "043fcce790f71d8b39ce7e2c7a09ef8c9324b1f4af86d0ed668dc783ad7ec7bf",
+    "original_checksum": "043fcce790f71d8b39ce7e2c7a09ef8c9324b1f4af86d0ed668dc783ad7ec7bf"
+  },
+  "get_auth_provider.dart": {
+    "old_identifier_name": "getAuthProvider",
+    "new_identifier_name": "getAuthProvider",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "3b4a0551e34483f1c457526aed9449da952c46f3e049f1636ef2d564e4c77b8d",
+    "original_checksum": "3b4a0551e34483f1c457526aed9449da952c46f3e049f1636ef2d564e4c77b8d"
+  },
+  "is_email_verified.dart": {
+    "old_identifier_name": "isEmailVerified",
+    "new_identifier_name": "isEmailVerified",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "28294e9bd5f316eab32d5ca2ec740e39b45b8d8d07737f4f3a34ed8130e7b321",
+    "original_checksum": "28294e9bd5f316eab32d5ca2ec740e39b45b8d8d07737f4f3a34ed8130e7b321"
+  },
+  "verify_email_code_action.dart": {
+    "old_identifier_name": "verifyEmailCodeAction",
+    "new_identifier_name": "verifyEmailCodeAction",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "c673c9bf5e0b2e33b99d7b0820fbfb832dcad9d2019175a9e197cc2f32e9d9f8",
+    "original_checksum": "c673c9bf5e0b2e33b99d7b0820fbfb832dcad9d2019175a9e197cc2f32e9d9f8"
+  },
+  "check_url_verifcation_code.dart": {
+    "old_identifier_name": "checkUrlVerifcationCode",
+    "new_identifier_name": "checkUrlVerifcationCode",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "b14b6c0bf95b5a6f25689734a3cc00b9a85ab93811a123739352a88a57ba84cd",
+    "original_checksum": "b14b6c0bf95b5a6f25689734a3cc00b9a85ab93811a123739352a88a57ba84cd"
+  },
+  "reset_password_from_link.dart": {
+    "old_identifier_name": "resetPasswordFromLink",
+    "new_identifier_name": "resetPasswordFromLink",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "ba1c234ce531e467f9c196a4d60cda359f218ade0eb0370d8aa6cb755557cff4",
+    "original_checksum": "ba1c234ce531e467f9c196a4d60cda359f218ade0eb0370d8aa6cb755557cff4"
+  },
+  "custom_functions.dart": {
+    "old_identifier_name": "CustomFunctions",
+    "new_identifier_name": "CustomFunctions",
+    "type": "F",
+    "is_deleted": false,
+    "current_checksum": "78553f44ba9cd088e14fb57ac0ec457ee82818b04375789135f0e999b8e9614e",
+    "original_checksum": "78553f44ba9cd088e14fb57ac0ec457ee82818b04375789135f0e999b8e9614e"
+  },
+  "pubspec.yaml": {
+    "old_identifier_name": "pubspec.yaml",
+    "new_identifier_name": "pubspec.yaml",
+    "type": "D",
+    "is_deleted": false,
+    "current_checksum": "ebc6980147f4d5066672debbd364d14d8185cd3465cf73bc334ed211e4c8ec41",
+    "original_checksum": "ebc6980147f4d5066672debbd364d14d8185cd3465cf73bc334ed211e4c8ec41"
+  }
+}
