@@ -113,7 +113,6 @@ class _AcceptLegaleWidgetState extends State<AcceptLegaleWidget>
                 padding: EdgeInsetsDirectional.fromSTEB(20.0, 0.0, 20.0, 0.0),
                 child: Container(
                   width: 500.0,
-                  height: 185.9,
                   decoration: BoxDecoration(
                     color: FlutterFlowTheme.of(context).secondaryBackground,
                     borderRadius: BorderRadius.circular(12.0),
@@ -129,6 +128,32 @@ class _AcceptLegaleWidgetState extends State<AcceptLegaleWidget>
                       mainAxisSize: MainAxisSize.max,
                       mainAxisAlignment: MainAxisAlignment.center,
                       children: [
+                        Row(
+                          mainAxisSize: MainAxisSize.max,
+                          mainAxisAlignment: MainAxisAlignment.end,
+                          children: [
+                            InkWell(
+                              splashColor: Colors.transparent,
+                              focusColor: Colors.transparent,
+                              hoverColor: Colors.transparent,
+                              highlightColor: Colors.transparent,
+                              onTap: () async {
+                                if ((MediaQuery.sizeOf(context).width <=
+                                        600.0) ==
+                                    false) {
+                                  Navigator.pop(context);
+                                } else {
+                                  Navigator.pop(context);
+                                }
+                              },
+                              child: Icon(
+                                Icons.close_rounded,
+                                color: FlutterFlowTheme.of(context).primaryText,
+                                size: 24.0,
+                              ),
+                            ),
+                          ],
+                        ),
                         Row(
                           mainAxisSize: MainAxisSize.max,
                           mainAxisAlignment: MainAxisAlignment.start,
@@ -371,8 +396,8 @@ class _AcceptLegaleWidgetState extends State<AcceptLegaleWidget>
                         ),
                       ]
                           .divide(SizedBox(height: 10.0))
-                          .addToStart(SizedBox(height: 10.0))
-                          .addToEnd(SizedBox(height: 10.0)),
+                          .addToStart(SizedBox(height: 16.0))
+                          .addToEnd(SizedBox(height: 16.0)),
                     ),
                   ),
                 ),

@@ -9,5 +9,6 @@
     "lib/flutter_flow/function_changes.json": true,
     ".vscode/settings.json": true
   },
-  "dart.flutterSdkPath": "c:\\dev\\flutter\\ff_flutter_sdk\\flutter"
+  "dart.flutterSdkPath": "c:\\dev\\flutter\\ff_flutter_sdk\\flutter",
+  "java.configuration.updateBuildConfiguration": "interactive"
 }
